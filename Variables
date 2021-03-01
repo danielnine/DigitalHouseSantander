@@ -1,0 +1,22 @@
+Guarda cierta información.
+"Palabra reservadas": var (ejemplo), let
+
+Estandar Nomenclatura de Variables
+Camel Case: holaMundo
+Snake Case: hola_mundo
+Kebab Case: hola-mundo
+
+Operador de asignación: signo =
+
+"let" pertenece a un bloque de ejecución y no se sobreescribe y puede cambiar de valor.
+
+Bloque de ejecuación: código dentro de la llaves.
+
+var miApellido = "Daniel";
+     nombre de var, asignación y valor.
+
+Si se declara 2 veces el valor de una variable, se pisa.
+En caso de ser "let" solo aplica en el bloque de código.
+
+
+ 
